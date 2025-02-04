@@ -3,9 +3,9 @@
 This project explores the fascinating connection between **music features** and **song moods** using data scraped from Spotify's Web API. By analyzing audio characteristics like **danceability**, **energy**, **loudness**, and **valence**, we uncover patterns that can help predict the mood of a song and even cluster songs based on similar features.
 
 👨‍💻 **Group Members**:
-- Noor Rehman | 232579 | [Email](mailto:hello.noorrehman@gmail.com)
-- Alisha Rubab | 232570 | 
-- Aliha Fatima | 232574 | 
+- Noor Rehman [Email](mailto:hello.noorrehman@gmail.com)
+- Alisha Rubab 
+- Aliha Fatima
 
 ---
 
