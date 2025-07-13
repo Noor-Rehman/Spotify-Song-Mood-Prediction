@@ -4,7 +4,7 @@ This project explores the fascinating connection between **music features** and 
 
 👨‍💻 **Group Members**:
 - Noor Rehman [Email](mailto:hello.noorrehman@gmail.com)
-- Alisha Rubab 
+- Alisha Rubab [Email](mailto:alisharubab7@gmail.com)
 - Aliha Fatima
 
 ---
